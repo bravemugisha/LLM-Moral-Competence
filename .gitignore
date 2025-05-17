@@ -1,0 +1,8 @@
+.env
+.DS_Store
+my_docs/ 
+.venv/
+__pycache__/
+.Rproj.user
+mct_PDFs/
+./specstory
