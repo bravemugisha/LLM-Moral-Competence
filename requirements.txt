@@ -1,0 +1,10 @@
+openai
+python-dotenv
+pandas
+anthropic 
+google-generativeai 
+deepseek-ai
+pandas
+numpy
+matplotlib
+pathlib
